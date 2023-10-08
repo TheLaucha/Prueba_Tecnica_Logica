@@ -17,3 +17,7 @@ Suponer un sistema de reserva de asientos para un anfiteatro. El teatro cuenta c
 Consideraciones: No es necesaria la programación de una GUI ni el uso de bases de datos. Se evaluará el manejo lógico del desarrollo de la aplicación.
 
 Extra: En caso de que un cliente solicite visualizar cuáles son los asientos libres, el sistema debe permitir mostrar de forma gráfica el mapa de asientos. NO UTILIZAR GUI para este caso. Utilizar ÚNICAMENTE lógica y la salida por consola.
+
+## Creditos
+
+El challenge fue extraido del canal TodoCode: https://www.twitch.tv/todocode
